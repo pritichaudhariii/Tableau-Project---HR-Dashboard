@@ -19,11 +19,11 @@ This repository contains everything needed to generate the dataset and explore t
 - 🌎 Distribution by city/state
 
 🟩 Demographics
-  🚻 Gender ratio
-  🎂 Age groups & 🎓 education levels
-  🔢 Counts by age group and by education level
-  📚 Education vs. ⭐ performance
+- 🚻 Gender ratio
+- 🎂 Age groups & 🎓 education levels
+- 🔢 Counts by age group and by education level
+- 📚 Education vs. ⭐ performance
 
 🟨 Income
-  💰 Salary by education level and gender
-  📊 Age–salary relationships by department
+- 💰 Salary by education level and gender
+- 📊 Age–salary relationships by department
