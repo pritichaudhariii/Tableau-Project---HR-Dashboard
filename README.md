@@ -12,10 +12,15 @@ This repository contains everything needed to generate the dataset and explore t
 
 📊 Dashboard Scope
   🟦 Overview
+  
   👥 Total hired, active, terminated
+  
   📈 Hires vs. terminations over time
+  
   🏢 Employees by department, job title
+  
   🏙️ HQ (New York City) vs. branches
+  
   🌎 Distribution by city/state
 
 🟩 Demographics
