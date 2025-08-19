@@ -45,3 +45,5 @@ This repository contains everything needed to generate the dataset and explore t
 🟨 Income
 - 💰 Salary by education level and gender
 - 📊 Age–salary relationships by department
+
+By combining synthetic data generation with interactive Tableau dashboards, this project highlights how analytics can support HR decision-making while preserving data privacy. It’s ideal for portfolio demonstration, HR analytics practice, or as a starting point for customizing HR dashboards with real company data.
