@@ -1,3 +1,7 @@
+📊📉 HR DASHBOARD
+
+<img width="1398" height="793" alt="Screenshot 2025-08-19 at 11 59 39 AM" src="https://github.com/user-attachments/assets/ffc27bad-baaf-4d08-887d-ebc224f94ce2" />
+
 📦 Repository Contents
 
 This repository contains everything needed to generate the dataset and explore the HR Dashboard in Tableau:
@@ -9,6 +13,7 @@ This repository contains everything needed to generate the dataset and explore t
 [Icons](./images.zip) – Icons sourced from Flaticon and customized in Photopea to match the dashboard’s theme. Includes editable PSD/Photopea files for further customization.
 
 [HR Dashboard](./HR_Dashboard.twbx) – Tableau workbook file. 
+
 
 📊 Dashboard Scope
 
