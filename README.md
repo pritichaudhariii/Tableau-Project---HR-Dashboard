@@ -8,4 +8,4 @@ This repository contains everything needed to generate the dataset and explore t
 
 [Icons](./images.zip) – Icons sourced from Flaticon and customized in Photopea to match the dashboard’s theme. Includes editable PSD/Photopea files for further customization.
 
-[HR Dashboard](./https://public.tableau.com/app/profile/priti.chaudhari/viz/HR_Dashboard_17556274588860/HRSummary) – Tableau workbook file. You can also download it directly from my Tableau Public Profile (replace with your link).
+[HR Dashboard](./HR_Dashboard.twbx) – Tableau workbook file. You can also download it directly from my Tableau Public Profile (replace with your link).
