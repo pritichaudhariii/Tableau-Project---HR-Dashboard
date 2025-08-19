@@ -11,7 +11,7 @@ This repository contains everything needed to generate the dataset and explore t
 [HR Dashboard](./HR_Dashboard.twbx) – Tableau workbook file. 
 
 📊 Dashboard Scope
-- 🟦 Overview
+🟦 Overview
 - 👥 Total hired, active, terminated
 - 📈 Hires vs. terminations over time
 - 🏢 Employees by department, job title
