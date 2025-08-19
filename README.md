@@ -8,4 +8,34 @@ This repository contains everything needed to generate the dataset and explore t
 
 [Icons](./images.zip) – Icons sourced from Flaticon and customized in Photopea to match the dashboard’s theme. Includes editable PSD/Photopea files for further customization.
 
-[HR Dashboard](./HR_Dashboard.twbx) – Tableau workbook file. You can also download it directly from my [Tableau Public Profile](./https://public.tableau.com/app/profile/priti.chaudhari).
+[HR Dashboard](./HR_Dashboard.twbx) – Tableau workbook file. 
+
+Dashboard Scope
+
+Overview
+
+Total hired, active, terminated
+
+Hires vs. terminations over time
+
+Employees by department, job title
+
+HQ (New York City) vs. branches
+
+Distribution by city/state
+
+Demographics
+
+Gender ratio
+
+Age groups & education levels
+
+Counts by age group and by education level
+
+Education vs. performance
+
+Income
+
+Salary by education level and gender
+
+Age–salary relationships by department
