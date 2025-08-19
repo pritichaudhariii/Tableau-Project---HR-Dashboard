@@ -10,32 +10,20 @@ This repository contains everything needed to generate the dataset and explore t
 
 [HR Dashboard](./HR_Dashboard.twbx) – Tableau workbook file. 
 
-Dashboard Scope
+📊 Dashboard Scope
+  🟦 Overview
+  👥 Total hired, active, terminated
+  📈 Hires vs. terminations over time
+  🏢 Employees by department, job title
+  🏙️ HQ (New York City) vs. branches
+  🌎 Distribution by city/state
 
-Overview
+🟩 Demographics
+  🚻 Gender ratio
+  🎂 Age groups & 🎓 education levels
+  🔢 Counts by age group and by education level
+  📚 Education vs. ⭐ performance
 
-Total hired, active, terminated
-
-Hires vs. terminations over time
-
-Employees by department, job title
-
-HQ (New York City) vs. branches
-
-Distribution by city/state
-
-Demographics
-
-Gender ratio
-
-Age groups & education levels
-
-Counts by age group and by education level
-
-Education vs. performance
-
-Income
-
-Salary by education level and gender
-
-Age–salary relationships by department
+🟨 Income
+  💰 Salary by education level and gender
+  📊 Age–salary relationships by department
